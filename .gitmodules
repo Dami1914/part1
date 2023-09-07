@@ -1,3 +1,6 @@
 [submodule "courseinfo"]
 	path = courseinfo
 	url = https://github.com/Dami1914/courseinfo.git
+[submodule "unicafe"]
+	path = unicafe
+	url = https://github.com/Dami1914/unicafe.git
